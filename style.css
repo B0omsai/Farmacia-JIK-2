@@ -62,3 +62,8 @@ min-height: 100vh;
     border-bottom: 1px solid var(--color);
     font-family: 'Roboto', sans-serif;
 }
+#logo {
+    width: 90px;
+    height: 100px;
+    filter: blur(1px);
+  }
